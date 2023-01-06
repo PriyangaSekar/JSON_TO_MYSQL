@@ -1,0 +1,17 @@
+[
+	{
+		"person": "John",
+		"year": 2018,
+		"company": "Google"
+	},
+	{
+		"person": "Sam",
+		"year": 2017,
+		"company": "IBM"
+	},
+	{
+		"person": "Jeff",
+		"year": 2014,
+		"company": "Yahoo"
+	}
+]
